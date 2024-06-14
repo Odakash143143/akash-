@@ -143,17 +143,17 @@ def banner():
    \033[34;1m / __/ / /_/ /_____/ /| |_/ // /|  / /_/ /  
    \033[32;1m/_/   /_____/     /_/ |_/___/_/ |_/\____/                                              
   \033[91;1m  ╔════════════════════════════════════════╗
-   {H} ║{P}[{H}•{P}] Author    :{warna} FB-KING                 {N}{H}║
-  {H}  ║{P}[{H}•{P}] Facebook  : {H}Mahin Ahmed             {N}{H}║
-    {H}║{P}[{H}•{P}] Whatsapp  : {M}+8801841004250          {N}{H}║
+   {H} ║{P}[{H}•{P}] Author    :{warna} AKAK                 {N}{H}║
+  {H}  ║{P}[{H}•{P}] Facebook  : {H}od akash            {N}{H}║
+    {H}║{P}[{H}•{P}] Whatsapp  : {M}+9040131652          {N}{H}║
   {H}  ║{P}[{H}•{P}] Github    : {K}github.com/FB-KING{N}    {H}  ║
-  {H}  ║{P}[{H}•{P}] Status    : {H}PREMIUM {P}     {N}      {H}     ║
+  {H}  ║{P}[{H}•{P}] Status    : {H} FREE {P}     {N}      {H}     ║
    {H} ║{P}[{H}•{P}] Network   : {H}3G{N}, {H}4G/5G{N}, {H}ON{N}     {H}      ║
-   {H} ║{P}[{H}•{P}] Version   : {H}2.0.9                   ║
+   {H} ║{P}[{H}•{P}] Version   : {H}2.1.0                   ║
    {H} ║{P}[{H}•{P}] Tools     : {H}ULTRA GREEN             ║
    {M} ╚════════════════════════════════════════╝ {P}""")
     print(f"""{GREEN}    SELL DONE{
- {K}[{H}√{K}]{P} Successfully Update Done {H}2.0.9""");print(led)
+ {K}[{H}√{K}]{P} Successfully Update Done {H}2.1.0""");print(led)
 
 
 c0=('ht')
